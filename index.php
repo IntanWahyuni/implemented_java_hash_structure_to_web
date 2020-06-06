@@ -38,7 +38,7 @@
 	  <h1 class="display-4">Assalammualaikum</h1>
 	  <p class="lead"> Website ini dibuat untuk menampilkan informasi editor pada artikel situs detik.com beserta artikel yang telah diedit<br>Data yang diperoleh berasal dari struktur data hash yang diintegrasi dengan Web</p>
 	  <hr class="my-4">
-	  <a class="btn btn-lg" href="" style ="background-color:#cc66ff"><i class="fab fa-github" style ="font-family: 'marck script',cursive;"></i> Visit My Github</a>
+	  <a class="btn btn-lg" href="https://github.com/IntanWahyuni/implemented_java_hash_structure_to_web" style ="background-color:#cc66ff"><i class="fab fa-github" style ="font-family: 'marck script',cursive;"></i> Visit My Github</a>
 	<!-- End Jumbotron -->
 
 	<script src="assets\bootstrap\js\jquery.min.js"></script>

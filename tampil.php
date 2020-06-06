@@ -51,7 +51,7 @@
         </nav>
         <!-- End Navbar -->
 
-        <div class="container">
+        <div class="container" style="background-color: #dd99ff">
             <div class="row">
                 <div class="col">
                     <div class="result d-flex justify-content-center mt-4"></div>
